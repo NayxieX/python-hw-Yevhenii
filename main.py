@@ -64,7 +64,7 @@ class AddressBook(UserDict):
 
 
 if __name__ == "__main__":
-    # Приклад використання
+    # Test ts
     book = AddressBook()
 
     john_record = Record("John")
